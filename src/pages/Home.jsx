@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+
 import profileImg from "../assets/profile.jpeg";
 
 export default function Home() {
